@@ -15,7 +15,13 @@ Follow [`third-party-skills.md`](third-party-skills.md) exactly — it lists, pe
 
 Before installing anything, re-verify that the listed repositories still exist and haven't materially changed — if one has moved, been renamed, or disappeared, stop and ask the user rather than guessing a replacement.
 
-**Prerequisites to check first**: Git must be installed and on `PATH` (`git --version`) — required both for plugin marketplaces and for the sparse-checkout copies. Install via `winget install --id Git.Git -e` if missing, with the user's confirmation.
+**Prerequisites to check first**:
+- Git must be installed and on `PATH` (`git --version`) — required both for plugin marketplaces and for the sparse-checkout copies. Install via `winget install --id Git.Git -e` if missing, with the user's confirmation.
+- Node.js must be installed and on `PATH` (`node --version`) — required for the Caveman skill installer. Install via `winget install --id OpenJS.NodeJS.LTS -e` if missing, with the user's confirmation.
+- After installing either via winget in the same session, refresh `PATH` before using the new command (a fresh terminal picks it up automatically, but a tool-call session may still have the old `PATH` cached):
+  ```powershell
+  $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
+  ```
 
 ## 3. Verification
 
