@@ -1,10 +1,10 @@
 # dev-environment
 
-Portable [Claude Code](https://claude.com/product/claude-code) configuration — the same global setup (instructions, subagent, skills, third-party plugins) used across every machine I develop on.
+Personal dev environment setup — machine bootstrap (base apps) and [Claude Code](https://claude.com/product/claude-code) configuration, synced across every machine I develop on.
 
 ## What this is for
 
-This repo is the single source of truth for my Claude Code global configuration: language/style rules, C#/.NET and Git conventions, a code-review subagent, and a curated set of first-party and third-party skills — all verified before being added (see [`third-party-skills.md`](third-party-skills.md)).
+This repo is the single source of truth for two things: the base apps a new machine needs (see [`apps/`](apps/)), and my Claude Code global configuration — language/style rules, C#/.NET and Git conventions, agents, and a curated set of first-party and third-party skills, all verified before being added (see [`third-party-skills.md`](third-party-skills.md)).
 
 ## Quick start
 
@@ -28,11 +28,15 @@ Then follow [`third-party-skills.md`](third-party-skills.md) to install the veri
 dev-environment/
 ├── README.md              — this file
 ├── SETUP.md                — step-by-step instructions for a Claude Code session to bootstrap a new machine
+├── apps/
+│   ├── README.md            — base apps a new machine needs, with winget ids
+│   └── install.ps1          — installs them
 ├── claude/
 │   ├── CLAUDE.md            — global user-level instructions
 │   ├── settings.json        — settings template (model, commit attribution)
 │   ├── agents/
-│   │   └── code-reviewer.md
+│   │   ├── code-reviewer.md
+│   │   └── code-simplifier.md
 │   └── skills/
 │       ├── readme-pattern/
 │       ├── ai-context-docs/
