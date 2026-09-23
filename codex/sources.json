@@ -1,0 +1,1047 @@
+[
+  {
+    "source": "~\\.claude\\skills\\benchmark\\SKILL.md",
+    "destination": "skills/benchmark/SKILL.md",
+    "source_sha256": "3b4d32317cb906904ab192b6e50389e34bad88887cb085c8ef1a345c382609dc"
+  },
+  {
+    "source": "~\\.claude\\skills\\caveman\\README.md",
+    "destination": "skills/caveman/README.md",
+    "source_sha256": "e59aba7147058f0b90e9961a50ccd2e76a6883524711567c0d9348bd1f9cd74d"
+  },
+  {
+    "source": "~\\.claude\\skills\\caveman\\SKILL.md",
+    "destination": "skills/caveman/SKILL.md",
+    "source_sha256": "0bf09a0a9a017d004a81d4b693e5a2d830e1a28230a5885df773e1ed9c0571cc"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\AGENTS.md",
+    "destination": "skills/composition-patterns/AGENTS.md",
+    "source_sha256": "ad5b5de8eef5c67b7fa370ea8f9ca79e9e17e3c1727e71af612b699fc90c9c90"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\metadata.json",
+    "destination": "skills/composition-patterns/metadata.json",
+    "source_sha256": "ace7d193472295f0f224948554406dfd6fe378b7f1f000d00020daa4d96f7ea5"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\README.md",
+    "destination": "skills/composition-patterns/README.md",
+    "source_sha256": "d6dc98821fb02558c54faf6cd39e5af15837b808c25c0fb4f16e4ec66b9f595c"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\SKILL.md",
+    "destination": "skills/composition-patterns/SKILL.md",
+    "source_sha256": "fb8f849b4d46c0c4d364ae6fb398a5cb693b54f9a4c31765a1ec0689c7cb93d5"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\_sections.md",
+    "destination": "skills/composition-patterns/rules/_sections.md",
+    "source_sha256": "738f4d5a8f96e939d5a2d38e59b53613074a173c2b9207ab813fd72f417f4f9f"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\_template.md",
+    "destination": "skills/composition-patterns/rules/_template.md",
+    "source_sha256": "d688f7c382511d1354bbaf05accdf0c93b5c2ce1d2ab60ab4cc217120fc29f8f"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\architecture-avoid-boolean-props.md",
+    "destination": "skills/composition-patterns/rules/architecture-avoid-boolean-props.md",
+    "source_sha256": "bf497b4166c70efca0328558ff3b30cf16bccd94bdc321adf5fa690d759739cb"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\architecture-compound-components.md",
+    "destination": "skills/composition-patterns/rules/architecture-compound-components.md",
+    "source_sha256": "dfad1d28de90868a8b8311a3974f5b89648a2a8208caa316ff63ead0b6194914"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\patterns-children-over-render-props.md",
+    "destination": "skills/composition-patterns/rules/patterns-children-over-render-props.md",
+    "source_sha256": "6e44da5931fcb09f2d631a462324035fb4d42d0a4ddbf4064ae1bddd2cbe387c"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\patterns-explicit-variants.md",
+    "destination": "skills/composition-patterns/rules/patterns-explicit-variants.md",
+    "source_sha256": "b741d51cefc5bad25ae725a3e8791b47198cdb576aa5f34e609e13b4e910d2d9"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\react19-no-forwardref.md",
+    "destination": "skills/composition-patterns/rules/react19-no-forwardref.md",
+    "source_sha256": "10ab8f9b640133f371c327ebbdde0169d94fdf9684c6798f135d5f0f5efd2b21"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\state-context-interface.md",
+    "destination": "skills/composition-patterns/rules/state-context-interface.md",
+    "source_sha256": "1d6923baa2726aa2fd8f3d75b7e820e895f89efc4c42d9f71cff229cbe21cb41"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\state-decouple-implementation.md",
+    "destination": "skills/composition-patterns/rules/state-decouple-implementation.md",
+    "source_sha256": "1b8757b07e62d869c4019f40cf75545516cc86386896b429090b2a54b13f301f"
+  },
+  {
+    "source": "~\\.claude\\skills\\composition-patterns\\rules\\state-lift-state.md",
+    "destination": "skills/composition-patterns/rules/state-lift-state.md",
+    "source_sha256": "2c70589fc7c8e2104269d1fda424f005daa470d38e1efe3feef32e0dd01d2ead"
+  },
+  {
+    "source": "~\\.claude\\skills\\csharp-testing\\SKILL.md",
+    "destination": "skills/csharp-testing/SKILL.md",
+    "source_sha256": "b190c6af7a036c2ac6a310550806397d5e2b7445e26a46e1049f3b5216e135fa"
+  },
+  {
+    "source": "~\\.claude\\skills\\dotnet-patterns\\SKILL.md",
+    "destination": "skills/dotnet-patterns/SKILL.md",
+    "source_sha256": "61bc21a6c6d6d1230d90f0bbebca55101b1b63de68ece8574152cbad152cef07"
+  },
+  {
+    "source": "~\\.claude\\skills\\frontend-design\\LICENSE.txt",
+    "destination": "skills/frontend-design/LICENSE.txt",
+    "source_sha256": "eb3d7b5485466acbd81f2b496f595ab637d2792e268206b27d99e793bdb67549"
+  },
+  {
+    "source": "~\\.claude\\skills\\frontend-design\\SKILL.md",
+    "destination": "skills/frontend-design/SKILL.md",
+    "source_sha256": "b8009ae690dfa69edc7f08bb8715f32db8817112cfa4388741dbaf876c237df8"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\AGENTS.md",
+    "destination": "skills/react-best-practices/AGENTS.md",
+    "source_sha256": "5640053923e5f36448c53e50b74069ea7c1477101e645e852bc61a84db328855"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\metadata.json",
+    "destination": "skills/react-best-practices/metadata.json",
+    "source_sha256": "1874ee16ee8ec9be9058dd31e0be60f9117ae1ac33986b258bac3923b5dd395f"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\README.md",
+    "destination": "skills/react-best-practices/README.md",
+    "source_sha256": "2e7e6cbe3952689bf9c00b9a7032f1bffb263cde2d01635f0aa49d3375c33ff5"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\SKILL.md",
+    "destination": "skills/react-best-practices/SKILL.md",
+    "source_sha256": "3286ace648b4d740317b9c1cb7fbd38600eaacc62a8b57ea5e06fd2992b5582e"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\_sections.md",
+    "destination": "skills/react-best-practices/rules/_sections.md",
+    "source_sha256": "f352f75b84d6c6ee644c3fade99eaf2186bdfdc1d9e5b598bae436f32b3bce4f"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\_template.md",
+    "destination": "skills/react-best-practices/rules/_template.md",
+    "source_sha256": "21231af1b4c70cfe6f07625830d982934295c735f91fddd9741b3a8e3688d735"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\advanced-effect-event-deps.md",
+    "destination": "skills/react-best-practices/rules/advanced-effect-event-deps.md",
+    "source_sha256": "d6b0ca8ba2982602b736e931c9a8d7a11e0b22cd501ef17c732979fb9ceeb8b2"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\advanced-event-handler-refs.md",
+    "destination": "skills/react-best-practices/rules/advanced-event-handler-refs.md",
+    "source_sha256": "029f0c929c665fb9263b8c72a44e50610caf94a6e22a8142821a84482eda825d"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\advanced-init-once.md",
+    "destination": "skills/react-best-practices/rules/advanced-init-once.md",
+    "source_sha256": "3d209bc4b17c2a503fdbb53b39261bc5ee824703a8b387daef3f53bad1f32ce4"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\advanced-use-latest.md",
+    "destination": "skills/react-best-practices/rules/advanced-use-latest.md",
+    "source_sha256": "84b3504ef0dc85f171c6aa0c5d15ac6d252ba72e38fc4e87872c0a3b1728345f"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\async-api-routes.md",
+    "destination": "skills/react-best-practices/rules/async-api-routes.md",
+    "source_sha256": "adf38ea4f34fa74b275b908e49aa20de20af9d9935b4a656314a49217b182663"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\async-cheap-condition-before-await.md",
+    "destination": "skills/react-best-practices/rules/async-cheap-condition-before-await.md",
+    "source_sha256": "8677605b94a5ed704873d8013bda2b690ff09fe8757fd472d9047cc848cf4019"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\async-defer-await.md",
+    "destination": "skills/react-best-practices/rules/async-defer-await.md",
+    "source_sha256": "eaa4f64d04eac1023fb61ed27712a81397989d86c126b987fa90baf4da02cc33"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\async-dependencies.md",
+    "destination": "skills/react-best-practices/rules/async-dependencies.md",
+    "source_sha256": "4901341bd7f7b7036eb8d98b243515ce294e6e4079370b3187c1514c3e597ec6"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\async-parallel.md",
+    "destination": "skills/react-best-practices/rules/async-parallel.md",
+    "source_sha256": "ff95abbb67b62a889d7ef71f1d06834238c47ecd3d49483f7823b4cd17d92680"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\async-suspense-boundaries.md",
+    "destination": "skills/react-best-practices/rules/async-suspense-boundaries.md",
+    "source_sha256": "8a6e88c6e5190e10d3e3ebca89a1bc4fefc4bdb0cbc9c6f406ce02452a5759df"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\bundle-analyzable-paths.md",
+    "destination": "skills/react-best-practices/rules/bundle-analyzable-paths.md",
+    "source_sha256": "32260f587900a89d642b805a4824bf8e6a197c2c6f62aec76522775d0a2f41ab"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\bundle-barrel-imports.md",
+    "destination": "skills/react-best-practices/rules/bundle-barrel-imports.md",
+    "source_sha256": "ceae03eb1cfad7e82019aeb297f87dc895eca14221c66f724e0801393d4da21f"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\bundle-conditional.md",
+    "destination": "skills/react-best-practices/rules/bundle-conditional.md",
+    "source_sha256": "16992beeaf9bdd1e7ff20989b8672cfffc8b918deb0783c058560c7a233dd37c"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\bundle-defer-third-party.md",
+    "destination": "skills/react-best-practices/rules/bundle-defer-third-party.md",
+    "source_sha256": "64de0f01dfe58b4d3a3865baa623f743ef1b8c363106c7dfaf2b2867f69b96d4"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\bundle-dynamic-imports.md",
+    "destination": "skills/react-best-practices/rules/bundle-dynamic-imports.md",
+    "source_sha256": "0fb947cdfec5ce0e95a894c6b68220f88983eff73ce65b98e4f00c885ebd9b36"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\bundle-preload.md",
+    "destination": "skills/react-best-practices/rules/bundle-preload.md",
+    "source_sha256": "b673a49f4cf4bf385ddf6956ca704139ec2915802bade1925134f8cfabb2278c"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\client-event-listeners.md",
+    "destination": "skills/react-best-practices/rules/client-event-listeners.md",
+    "source_sha256": "e2229c8e121dfdd6bad8063ba6c41213ff612e19e077f17ba805b70d48151775"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\client-localstorage-schema.md",
+    "destination": "skills/react-best-practices/rules/client-localstorage-schema.md",
+    "source_sha256": "f9d177a557f4bd4bd1a81f30f841f75041821dd88f706a6b8c4eac86c7472e05"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\client-passive-event-listeners.md",
+    "destination": "skills/react-best-practices/rules/client-passive-event-listeners.md",
+    "source_sha256": "277118e32363381459bc7439fa942966da668d2c128d93968f9a289f0bb32861"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\client-swr-dedup.md",
+    "destination": "skills/react-best-practices/rules/client-swr-dedup.md",
+    "source_sha256": "866e6cc267f06df39129c44c68c5e6a2e62faa554bc8cdb6ada1f58afe4bcbbe"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-batch-dom-css.md",
+    "destination": "skills/react-best-practices/rules/js-batch-dom-css.md",
+    "source_sha256": "d7343005afc6a9c7e86368e22318f49b88492973e673f7b0ba2eb65697597143"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-cache-function-results.md",
+    "destination": "skills/react-best-practices/rules/js-cache-function-results.md",
+    "source_sha256": "bbef6423ad250227e8c73a5d9be6fd687707dd187ef50236fd5b6883a41d49b6"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-cache-property-access.md",
+    "destination": "skills/react-best-practices/rules/js-cache-property-access.md",
+    "source_sha256": "bbecc553a5b51caab2ddc90423a23d4c3245669439ff91e5204e48d62aaf1c5e"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-cache-storage.md",
+    "destination": "skills/react-best-practices/rules/js-cache-storage.md",
+    "source_sha256": "7710a2ceb421d9b6d3828d7f38ec8a093af4a372c2b3b4ea2299d5df2518f770"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-combine-iterations.md",
+    "destination": "skills/react-best-practices/rules/js-combine-iterations.md",
+    "source_sha256": "c43a02979586d39f341fa6da7fc61bdd6a6917fa0c4f9c926091fa540cdf8022"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-early-exit.md",
+    "destination": "skills/react-best-practices/rules/js-early-exit.md",
+    "source_sha256": "b6b967ab80d2a5fc19851d9db9464cf8e4d0e57dccb607a474b8f7818015951d"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-flatmap-filter.md",
+    "destination": "skills/react-best-practices/rules/js-flatmap-filter.md",
+    "source_sha256": "acfa11d07d7982ec565e4d8cfb410d477ffb73a7b41a532b938bcdb15c6ba51f"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-hoist-regexp.md",
+    "destination": "skills/react-best-practices/rules/js-hoist-regexp.md",
+    "source_sha256": "86f4772c5d732c1f5f0656412713c6dc919360f0f3ea32bb1a45937eaaa5866e"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-index-maps.md",
+    "destination": "skills/react-best-practices/rules/js-index-maps.md",
+    "source_sha256": "752dd0803a7394a70e8d437b7eb025d1e085566e30ad733e75b9d2e04cc6c4d9"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-length-check-first.md",
+    "destination": "skills/react-best-practices/rules/js-length-check-first.md",
+    "source_sha256": "9e57362d76e57ea6a2ff8cd137cf2a87b094aaff152eac61758305acb450a25c"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-min-max-loop.md",
+    "destination": "skills/react-best-practices/rules/js-min-max-loop.md",
+    "source_sha256": "f0054bcd1c3168ea8a6474df33c398bc0066eb1e813d59ae57fe36806ec900b6"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-request-idle-callback.md",
+    "destination": "skills/react-best-practices/rules/js-request-idle-callback.md",
+    "source_sha256": "cefb8938f833f4747546d8c4fbe2c8c9938a5bfe27e087636048adef3fd8d719"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-set-map-lookups.md",
+    "destination": "skills/react-best-practices/rules/js-set-map-lookups.md",
+    "source_sha256": "7143f8d7b71cdbc77a171fc801bdcf5e7a209e0f471ff17bb669acc986a6b064"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\js-tosorted-immutable.md",
+    "destination": "skills/react-best-practices/rules/js-tosorted-immutable.md",
+    "source_sha256": "2722514cac46990f3361fa35ee20d499a12da2539362e7871b670978664d158a"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-activity.md",
+    "destination": "skills/react-best-practices/rules/rendering-activity.md",
+    "source_sha256": "e23dd494d955db99d376b5bf62a59ce7df9f14576d94094f2e53cfdc388453a0"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-animate-svg-wrapper.md",
+    "destination": "skills/react-best-practices/rules/rendering-animate-svg-wrapper.md",
+    "source_sha256": "dca7f0251244489b3bbb6f5aaf7d70f280d91dc13de8ebd24403286f382ec0f4"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-conditional-render.md",
+    "destination": "skills/react-best-practices/rules/rendering-conditional-render.md",
+    "source_sha256": "6db58f36c8b080c35e91f6504281f85ea2dbd133030610c860e60181d6d9556a"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-content-visibility.md",
+    "destination": "skills/react-best-practices/rules/rendering-content-visibility.md",
+    "source_sha256": "45437e9594857ee1066ee061e946ed129731cf2e80f7e08f3cc621fa0554c567"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-hoist-jsx.md",
+    "destination": "skills/react-best-practices/rules/rendering-hoist-jsx.md",
+    "source_sha256": "c5fa7274f067ce3760107196a9416df333a7b4187254ef66c547fad7c45cd8d3"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-hydration-no-flicker.md",
+    "destination": "skills/react-best-practices/rules/rendering-hydration-no-flicker.md",
+    "source_sha256": "bfedc3a73f9687c7836acf915165fb845880453b6dfcf2fa6475dfec96b23027"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-hydration-suppress-warning.md",
+    "destination": "skills/react-best-practices/rules/rendering-hydration-suppress-warning.md",
+    "source_sha256": "7ec1623c69e1a82b09b8b5a6028005e3eb8485741898447af1bcaed8ff8c0139"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-resource-hints.md",
+    "destination": "skills/react-best-practices/rules/rendering-resource-hints.md",
+    "source_sha256": "03ffeb3c26ae514bd24ea8683621d67a4b8432926ef7ee8d3296f82ae5c1b6ab"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-script-defer-async.md",
+    "destination": "skills/react-best-practices/rules/rendering-script-defer-async.md",
+    "source_sha256": "28ef87814467a4758645889dcbb0ccb9a9e2387c4cebbd8cd4dfa33435e3e5d8"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-svg-precision.md",
+    "destination": "skills/react-best-practices/rules/rendering-svg-precision.md",
+    "source_sha256": "d57cdfaaaf660a28a9a5d6d10e97202a5eb13e1bc1675e024cb1ccbfa8bb2c32"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rendering-usetransition-loading.md",
+    "destination": "skills/react-best-practices/rules/rendering-usetransition-loading.md",
+    "source_sha256": "c2186f944b60630c67d42222f60ecb12b5a85395e7f31f193982f85983165720"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-defer-reads.md",
+    "destination": "skills/react-best-practices/rules/rerender-defer-reads.md",
+    "source_sha256": "bb98d9b7c7622641887df6407406a8c4f61510af9cc1bd275574ebee71bac8c8"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-dependencies.md",
+    "destination": "skills/react-best-practices/rules/rerender-dependencies.md",
+    "source_sha256": "4f0a1806694c2391c0b5b79bb4dee89fdf2c02ee322acf308509c17542240446"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-derived-state-no-effect.md",
+    "destination": "skills/react-best-practices/rules/rerender-derived-state-no-effect.md",
+    "source_sha256": "1d50f7b1b86d24f987c557415590f79b06250e3ec1ca552da981e31a31f9edb9"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-derived-state.md",
+    "destination": "skills/react-best-practices/rules/rerender-derived-state.md",
+    "source_sha256": "6a501211aa53036905df7531deaf25fdb8582697366fd071d4c2607828662dcb"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-functional-setstate.md",
+    "destination": "skills/react-best-practices/rules/rerender-functional-setstate.md",
+    "source_sha256": "e46096d4c2c8fc89ab717bd7e56b8a884b612a88013a99b0c63e7dfc45d8cf25"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-lazy-state-init.md",
+    "destination": "skills/react-best-practices/rules/rerender-lazy-state-init.md",
+    "source_sha256": "b8b9e6b6001a1e94979776e744eb38a98432858dd2369995731c9a095ecd1d2e"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-memo-with-default-value.md",
+    "destination": "skills/react-best-practices/rules/rerender-memo-with-default-value.md",
+    "source_sha256": "e69d637687b85967554df7d5fcfd83cc6fbb89237e9b80d10fbea7916244aa8b"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-memo.md",
+    "destination": "skills/react-best-practices/rules/rerender-memo.md",
+    "source_sha256": "8cc2d062f22ae762f7f5f93baf2bfc374c917079131896559721f9dfbd402a7c"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-move-effect-to-event.md",
+    "destination": "skills/react-best-practices/rules/rerender-move-effect-to-event.md",
+    "source_sha256": "00f5eaf8d4380c736c9177b67583f6b33f6b1f84addc252653cd6dea9551ad8d"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-no-inline-components.md",
+    "destination": "skills/react-best-practices/rules/rerender-no-inline-components.md",
+    "source_sha256": "381ec0a4224c20c57545b6c44a65ffcaf0ed520fad97f3d0f8abcb7389de602f"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-simple-expression-in-memo.md",
+    "destination": "skills/react-best-practices/rules/rerender-simple-expression-in-memo.md",
+    "source_sha256": "1e41299336d72ce42ffe0b4d397496e520eae13ea544b1412b83761555f4e631"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-split-combined-hooks.md",
+    "destination": "skills/react-best-practices/rules/rerender-split-combined-hooks.md",
+    "source_sha256": "93543c1987b8bb639302a4598f1444bc9ed02d200ea7ad0e47e890ff3fa8cf21"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-transitions.md",
+    "destination": "skills/react-best-practices/rules/rerender-transitions.md",
+    "source_sha256": "b51a82fb6b223d13c585dfddaeb753c79d7da0524da87b708f61fd6939600ab6"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-use-deferred-value.md",
+    "destination": "skills/react-best-practices/rules/rerender-use-deferred-value.md",
+    "source_sha256": "2c393cc085e9ae6285ee9e71f4db86ddd0120a41b84c6a1d659f46e8c7684db5"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\rerender-use-ref-transient-values.md",
+    "destination": "skills/react-best-practices/rules/rerender-use-ref-transient-values.md",
+    "source_sha256": "26ddded1d59cc04cddf7c1412ffb05315dd1f358510edcce3c3474d5acb63f32"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-after-nonblocking.md",
+    "destination": "skills/react-best-practices/rules/server-after-nonblocking.md",
+    "source_sha256": "86c8670ad8e6285753645c2cebd164c56baf6f0fa74f914c0ca496d0a0156bcc"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-auth-actions.md",
+    "destination": "skills/react-best-practices/rules/server-auth-actions.md",
+    "source_sha256": "a413aba63b73f7f82cf2482646c8c1598eaa75753c8f73f33055b8508de99fea"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-cache-lru.md",
+    "destination": "skills/react-best-practices/rules/server-cache-lru.md",
+    "source_sha256": "19d844eebd1fb7ef5f43f4d1e85baf1fc0160547400ab838ba4d40226eb891b9"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-cache-react.md",
+    "destination": "skills/react-best-practices/rules/server-cache-react.md",
+    "source_sha256": "7448470adc9f0066455f9cf45b658f5c3f1884a7990c89f880fbb272a4028b05"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-dedup-props.md",
+    "destination": "skills/react-best-practices/rules/server-dedup-props.md",
+    "source_sha256": "5c4d4c9930812d3ab98e28ad97ca2f5af778effbf9b50b6a7558c18abf2e98b5"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-hoist-static-io.md",
+    "destination": "skills/react-best-practices/rules/server-hoist-static-io.md",
+    "source_sha256": "92665f53454156ccc59f115455cf3cbf9c3cbd88dcb5b84b14037f200ab990c5"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-no-shared-module-state.md",
+    "destination": "skills/react-best-practices/rules/server-no-shared-module-state.md",
+    "source_sha256": "9c2b6ee5b418c35f8b0ce466d0d1352e25c85e6b7ebbe4495b81791f10f915dc"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-parallel-fetching.md",
+    "destination": "skills/react-best-practices/rules/server-parallel-fetching.md",
+    "source_sha256": "f8f275fea2378e7707a50f2df4af6a2f65fe1fa84edb3ffc4720af805ebabe42"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-parallel-nested-fetching.md",
+    "destination": "skills/react-best-practices/rules/server-parallel-nested-fetching.md",
+    "source_sha256": "1e59763bbec3d6d74b8457c3d82f1a319b483fe5497b665652d8cba69fdda002"
+  },
+  {
+    "source": "~\\.claude\\skills\\react-best-practices\\rules\\server-serialization.md",
+    "destination": "skills/react-best-practices/rules/server-serialization.md",
+    "source_sha256": "567ce457f775d4e03e2a6ef7bf67213fee35c6c3b9d1bcfa783007d1df414d4b"
+  },
+  {
+    "source": "~\\.claude\\skills\\sql-expert\\SKILL.md",
+    "destination": "skills/sql-expert/SKILL.md",
+    "source_sha256": "8a14be90cda4d659a746e1d4d4c14a53b865a3b2e372bf17dc818869b3a1a8f8"
+  },
+  {
+    "source": "~\\.claude\\skills\\sql-expert\\references\\data-types.md",
+    "destination": "skills/sql-expert/references/data-types.md",
+    "source_sha256": "721532cf61b2e7e05fb01674c2a8c04ec470201d48b28a40cebd585347d325ab"
+  },
+  {
+    "source": "~\\.claude\\skills\\sql-expert\\references\\patterns.md",
+    "destination": "skills/sql-expert/references/patterns.md",
+    "source_sha256": "b8202942f838de57cd5f1f8f8c7785e3d798e8378e5a78c4cff20c81017bc213"
+  },
+  {
+    "source": "~\\.claude\\skills\\sql-expert\\references\\performance.md",
+    "destination": "skills/sql-expert/references/performance.md",
+    "source_sha256": "7e88a5ea2f36206164f1ef02adaf507a860db53074055b8d1a2706512292dbfa"
+  },
+  {
+    "source": "~\\.claude\\skills\\sql-expert\\references\\security.md",
+    "destination": "skills/sql-expert/references/security.md",
+    "source_sha256": "d189d8f5cdb8555e908cd06fb0964192e5f91cd9c9af21ad553c0110d8bb3f08"
+  },
+  {
+    "source": "~\\.claude\\skills\\sql-expert\\references\\transactions.md",
+    "destination": "skills/sql-expert/references/transactions.md",
+    "source_sha256": "5cf7b17bb30cc466867d032233cf86ea5ebb1967492abec329f15f953d6e1f20"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\SKILL.md",
+    "destination": "skills/sqlserver-cloud/SKILL.md",
+    "source_sha256": "bf6738f909e77d2c057ec31d21af4008f3647bc7b59e0569374c1ccd678d70ce"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\references\\azure-managed-instance.md",
+    "destination": "skills/sqlserver-cloud/references/azure-managed-instance.md",
+    "source_sha256": "adb804d6da8ea83fa1e50b7c0788e1a58e7170862141881dd247c6d5ac88045c"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\references\\azure-sql-database.md",
+    "destination": "skills/sqlserver-cloud/references/azure-sql-database.md",
+    "source_sha256": "c90f7cee10fe3d0bbdbd8efe419c02ab790b83266b0bbc6ccde69197439f8d87"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\references\\cloud-migration.md",
+    "destination": "skills/sqlserver-cloud/references/cloud-migration.md",
+    "source_sha256": "d1e9308a21cff8df3b08d56a14b2b29b608d029a6a2a4af2154b16c633ad2271"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\references\\sql-on-iaas-and-other-clouds.md",
+    "destination": "skills/sqlserver-cloud/references/sql-on-iaas-and-other-clouds.md",
+    "source_sha256": "c56dc2cf615a699d4ce3d7971838edb3bf78152b0132e3b3800dcf503862dd5e"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\scripts\\01-azure-sql-db-health.sql",
+    "destination": "skills/sqlserver-cloud/scripts/01-azure-sql-db-health.sql",
+    "source_sha256": "6cc883c3ccdd8d5b24c95a42a50014440d211d3d582ccf6166a90e4725c8b42c"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\scripts\\02-managed-instance-checks.sql",
+    "destination": "skills/sqlserver-cloud/scripts/02-managed-instance-checks.sql",
+    "source_sha256": "28223d85e416783f7869a7896a18d7deccd4bb8247e6d5c731f93f4f01d8c702"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\scripts\\03-geo-replication-status.sql",
+    "destination": "skills/sqlserver-cloud/scripts/03-geo-replication-status.sql",
+    "source_sha256": "be804d52911ec0f25b0b3583d8445d3c81653addddc7340e4a6ac69c68a69cb6"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\scripts\\04-iaas-cloud-readiness.sql",
+    "destination": "skills/sqlserver-cloud/scripts/04-iaas-cloud-readiness.sql",
+    "source_sha256": "d9c300c7ceb9adfed657bcfc250ec29b6a0da9b6c017188a285a1ef1572a1264"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-cloud\\scripts\\05-migration-readiness.sql",
+    "destination": "skills/sqlserver-cloud/scripts/05-migration-readiness.sql",
+    "source_sha256": "94a6559d1caf80c3b0e924bf1bded8cefb3ed41a076c502dad1217108b4348bd"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\SKILL.md",
+    "destination": "skills/sqlserver-engineering/SKILL.md",
+    "source_sha256": "c3365463935b781d194e9c1069ef55de62c1d55a6975ecfd881361a90168d549"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\references\\indexing.md",
+    "destination": "skills/sqlserver-engineering/references/indexing.md",
+    "source_sha256": "30910dfad1ad10d78618c9b3852d6ee4d608ebb4212ec463e15af45abf25f1b5"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\references\\query-optimization.md",
+    "destination": "skills/sqlserver-engineering/references/query-optimization.md",
+    "source_sha256": "b214b3bc121db46709eb2e0b5166717e18a493c082e4a98767b6b298b2cdbc79"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\references\\schema-design.md",
+    "destination": "skills/sqlserver-engineering/references/schema-design.md",
+    "source_sha256": "ab0889a28a4618214ef77658fed260c85b7e4c9a9dac14b234cb0925f00921f4"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\references\\tsql-development.md",
+    "destination": "skills/sqlserver-engineering/references/tsql-development.md",
+    "source_sha256": "4b0965a88e4d2f36bfee1de6818c81059770489be822b5488b32ac90b3046385"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\01-index-usage.sql",
+    "destination": "skills/sqlserver-engineering/scripts/01-index-usage.sql",
+    "source_sha256": "f52ebd962423dbce6e60512c64c1e95371cc796ee02a7f9f85ba7523ba957ffa"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\02-missing-indexes.sql",
+    "destination": "skills/sqlserver-engineering/scripts/02-missing-indexes.sql",
+    "source_sha256": "1dbfd3cc912ce4fa7367ec7063c0b6acf966d84e69fcbc46f512f2816ca4998b"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\03-index-fragmentation.sql",
+    "destination": "skills/sqlserver-engineering/scripts/03-index-fragmentation.sql",
+    "source_sha256": "419ff5dee2e7e35f78c31abd91276a1e0c965a30966bdf47e5e2b6f91c972ed5"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\04-duplicate-overlapping-indexes.sql",
+    "destination": "skills/sqlserver-engineering/scripts/04-duplicate-overlapping-indexes.sql",
+    "source_sha256": "d92e93c068ff51c1c6f8f65e873a0d2cea6d973e9c16a0abf88344db1549f59d"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\05-plan-cache-analysis.sql",
+    "destination": "skills/sqlserver-engineering/scripts/05-plan-cache-analysis.sql",
+    "source_sha256": "720c593c97b27c1502268f8d6780efd8cc875bf3c7b12ea1a1980e2397e831eb"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\06-statistics-info.sql",
+    "destination": "skills/sqlserver-engineering/scripts/06-statistics-info.sql",
+    "source_sha256": "328e4c883b8c2907788ea3e0ed060a25730a800c08e517dd88840e63279b2a31"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\07-parameter-sniffing-detect.sql",
+    "destination": "skills/sqlserver-engineering/scripts/07-parameter-sniffing-detect.sql",
+    "source_sha256": "b7be52a87f077059af27d6e9a6b40a12ba82d774ed78c2433a94e52cd23678f9"
+  },
+  {
+    "source": "~\\.claude\\skills\\sqlserver-engineering\\scripts\\08-columnstore-health.sql",
+    "destination": "skills/sqlserver-engineering/scripts/08-columnstore-health.sql",
+    "source_sha256": "dc563db824694c986252fc21a3e41da334df1197bd1211e46912c48244aede74"
+  },
+  {
+    "source": "~\\.claude\\skills\\web-design-guidelines\\SKILL.md",
+    "destination": "skills/web-design-guidelines/SKILL.md",
+    "source_sha256": "17e48da905f83a19c174079b50760a98c069527ba50079239b3c187236627c29"
+  },
+  {
+    "source": "~\\.claude\\skills\\webapp-testing\\LICENSE.txt",
+    "destination": "skills/webapp-testing/LICENSE.txt",
+    "source_sha256": "52b223c318576d65c32f70cb745f31352730e9f4c2c2c2570a66ce700f4f5a64"
+  },
+  {
+    "source": "~\\.claude\\skills\\webapp-testing\\SKILL.md",
+    "destination": "skills/webapp-testing/SKILL.md",
+    "source_sha256": "8bc27790f6e6dfc2bfa6692326d4518baacf6a31dcc646d963c729adad2f7e34"
+  },
+  {
+    "source": "~\\.claude\\skills\\webapp-testing\\examples\\console_logging.py",
+    "destination": "skills/webapp-testing/examples/console_logging.py",
+    "source_sha256": "f06fbca7cdfa44ecf5bae40813b30fc758ec3280af1aab5586aa2dd384db7ad6"
+  },
+  {
+    "source": "~\\.claude\\skills\\webapp-testing\\examples\\element_discovery.py",
+    "destination": "skills/webapp-testing/examples/element_discovery.py",
+    "source_sha256": "7e99c7caf1593a75a8b2e36847128c41962fefc604f7947426581c2b9fc2361b"
+  },
+  {
+    "source": "~\\.claude\\skills\\webapp-testing\\examples\\static_html_automation.py",
+    "destination": "skills/webapp-testing/examples/static_html_automation.py",
+    "source_sha256": "6633d0b7c3b3bef31e6baa9cef6fac57490767ee481702fe11c281d8d013b769"
+  },
+  {
+    "source": "~\\.claude\\skills\\webapp-testing\\scripts\\with_server.py",
+    "destination": "skills/webapp-testing/scripts/with_server.py",
+    "source_sha256": "529b5f10f6ecf2e6234747be6d6601be7ef9011ee29a3eee0879e7823f608238"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\SKILL.md",
+    "destination": "skills/brainstorming/SKILL.md",
+    "source_sha256": "a32d2255354775aa124855aa7100cf276bea096fff4ebb3a0edf57be216e6c72"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\spec-document-reviewer-prompt.md",
+    "destination": "skills/brainstorming/spec-document-reviewer-prompt.md",
+    "source_sha256": "95a0a195de9d984be2fffa95bab16fc8c563bc296a9cfc5e9c29cb3ece0d7457"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\visual-companion.md",
+    "destination": "skills/brainstorming/visual-companion.md",
+    "source_sha256": "6ffcb038b53254bd31debaa15e12dcd4ff24bd63d690e0b644ac6396701cf2e2"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\scripts\\frame-template.html",
+    "destination": "skills/brainstorming/scripts/frame-template.html",
+    "source_sha256": "7b9418e9939dded0cf8e6a5549a18162b7c7e5495deeefa83a12f3394b81395d"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\scripts\\helper.js",
+    "destination": "skills/brainstorming/scripts/helper.js",
+    "source_sha256": "43c6d69954a46ec34a2a262bcc62a9a7e83e839c739f199cb72646d397c686e3"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\scripts\\server.cjs",
+    "destination": "skills/brainstorming/scripts/server.cjs",
+    "source_sha256": "ee89af11506ac4933324c89a2cfb36b391fe611f82efb9eeb3b814e40825145f"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\scripts\\start-server.sh",
+    "destination": "skills/brainstorming/scripts/start-server.sh",
+    "source_sha256": "a4e5ae84275bcaacd2f84345afeabe59cf7b00ba080e123da7cc1fb226f12847"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\brainstorming\\scripts\\stop-server.sh",
+    "destination": "skills/brainstorming/scripts/stop-server.sh",
+    "source_sha256": "0b5ccbbd57f62d3ed88993f7940b5ee0e5c0fc9b21c550c623da4f6292e47daf"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\SKILL.md",
+    "destination": "skills/diagnosing-superpowers/SKILL.md",
+    "source_sha256": "5a652f8132cc901eb5ca61f89157839f87a2f20aed037fc7a2b51051bc37cd19"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\analyst-common.md",
+    "destination": "skills/diagnosing-superpowers/prompts/analyst-common.md",
+    "source_sha256": "88801c36070be2a54a8a9a29632b01ab21db053e2e76ee49b5252a9b74ca4090"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\cost-and-time.md",
+    "destination": "skills/diagnosing-superpowers/prompts/cost-and-time.md",
+    "source_sha256": "fe97a66d4db3b436816ef82694bda413b522b3a862dd41978da01e358fffecc4"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\plan-adherence.md",
+    "destination": "skills/diagnosing-superpowers/prompts/plan-adherence.md",
+    "source_sha256": "1dcbab82033598a2e9c9ee42e950d4b1822d2c871c02cef9e102cdd5cbbda113"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\quality-evidence.md",
+    "destination": "skills/diagnosing-superpowers/prompts/quality-evidence.md",
+    "source_sha256": "749d11cf678f379ed77a29274cad456634e0284aa523639a1a214a9f2b986eb1"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\repeated-work.md",
+    "destination": "skills/diagnosing-superpowers/prompts/repeated-work.md",
+    "source_sha256": "895027f2dfa4b1b8bcdb7ac9aec8d45a80bff212fad6ec6cad5ab38fa68322f5"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\request-conflicts.md",
+    "destination": "skills/diagnosing-superpowers/prompts/request-conflicts.md",
+    "source_sha256": "e800e38d8b7752c212c76c5c3ed75cd78b749684263ea0c313586f26af6f4b5c"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\scrub-audit.md",
+    "destination": "skills/diagnosing-superpowers/prompts/scrub-audit.md",
+    "source_sha256": "5cc48f05a7f81f5f7e05e0c7ceafc0fb8774bcaf75fe88dcb5c7e408026c70ad"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\scrub.md",
+    "destination": "skills/diagnosing-superpowers/prompts/scrub.md",
+    "source_sha256": "854cb3320cc5377b493cea2f72519d67983464882db68a0f408a7d0a0f040b8c"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\similar-session.md",
+    "destination": "skills/diagnosing-superpowers/prompts/similar-session.md",
+    "source_sha256": "b190f713b463df2bb5ec3914647e204074d1bd50643a53159db6d13cace916c1"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\skill-timeline.md",
+    "destination": "skills/diagnosing-superpowers/prompts/skill-timeline.md",
+    "source_sha256": "45d604d583b57a77b9033eced8eb875ef342af70fcd66cf7d15c6dc89964890f"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\prompts\\stumbles.md",
+    "destination": "skills/diagnosing-superpowers/prompts/stumbles.md",
+    "source_sha256": "1f2d1f048aff7b8b400006301f1ce8c232ecc7e9d5f705af27a849b2c03ea2e7"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\references\\context-safety.md",
+    "destination": "skills/diagnosing-superpowers/references/context-safety.md",
+    "source_sha256": "e6be2bd3495f454d4bedee9484d728d245d1fa656e11fc4ceec5693c16e4730a"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\references\\github-issues.md",
+    "destination": "skills/diagnosing-superpowers/references/github-issues.md",
+    "source_sha256": "a656f5e15b21c7a200c39c038f5ede74b9d6ea3ceeb90f39af7e930c8d8424d6"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\references\\redaction-policy.md",
+    "destination": "skills/diagnosing-superpowers/references/redaction-policy.md",
+    "source_sha256": "96b16f47074838fe2d7e609577d6f8b0ad460f8378b281a3f96ee23cb5a08bde"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\references\\session-discovery.md",
+    "destination": "skills/diagnosing-superpowers/references/session-discovery.md",
+    "source_sha256": "6d1dced083e5d978448a78df298cf515531b0eb39b2854a4a2afbffeb69a7435"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\templates\\bundle-README.md",
+    "destination": "skills/diagnosing-superpowers/templates/bundle-README.md",
+    "source_sha256": "2e6ddc6b106028d5ebd00a50ad93a77111d675c219ee1273cd0857869e8d51ec"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\templates\\case.md",
+    "destination": "skills/diagnosing-superpowers/templates/case.md",
+    "source_sha256": "597892462be83bc478536ec91f7c285f6dd25d119c560734a3a180fe8471301d"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\templates\\issue.md",
+    "destination": "skills/diagnosing-superpowers/templates/issue.md",
+    "source_sha256": "8f28dbfe60602f77dda76d81815cb4e2dce7d3e2a93348890e1581be8310ac1f"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\diagnosing-superpowers\\templates\\report.md",
+    "destination": "skills/diagnosing-superpowers/templates/report.md",
+    "source_sha256": "38295d0fd785e8608f330815c59ebd7047942002ec7085aecbed54681f56b0c1"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\dispatching-parallel-agents\\SKILL.md",
+    "destination": "skills/dispatching-parallel-agents/SKILL.md",
+    "source_sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\executing-plans\\SKILL.md",
+    "destination": "skills/executing-plans/SKILL.md",
+    "source_sha256": "f38e8f2ddcf079f65493adc713c1fed78421dfaf5f4dbf6b3a6b2b1d95466e71"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\executing-plans\\scripts\\task-done",
+    "destination": "skills/executing-plans/scripts/task-done",
+    "source_sha256": "5896ebbb8c2a942a523913de6975b2a6334a27d0b9bc128cedad83bd2737792a"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\executing-plans\\scripts\\task-start",
+    "destination": "skills/executing-plans/scripts/task-start",
+    "source_sha256": "5eb4db5457bfe9d201712fd7322896afd2f7f12b277b563900331b4e2ddfb114"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\finishing-a-development-branch\\SKILL.md",
+    "destination": "skills/finishing-a-development-branch/SKILL.md",
+    "source_sha256": "8db5a922b242dd4e1bf824cb91c13b3e8d8e8a86d6ceaf7f0774eb9cce909d65"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\receiving-code-review\\SKILL.md",
+    "destination": "skills/receiving-code-review/SKILL.md",
+    "source_sha256": "091df1629510af1b92fc4abd6f96732ebedb4cb2c0f3457e8f2740b0504a2438"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\requesting-code-review\\code-reviewer.md",
+    "destination": "skills/requesting-code-review/code-reviewer.md",
+    "source_sha256": "82e370be6b3447523816286195571e4216ba56ba1ad6ad0e87862294c4c78dcb"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\requesting-code-review\\SKILL.md",
+    "destination": "skills/requesting-code-review/SKILL.md",
+    "source_sha256": "cfcee1b06774e7c0517f1e09be1a11f2d5680257072723e709ddbcf7e08b795a"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\implementer-prompt.md",
+    "destination": "skills/subagent-driven-development/implementer-prompt.md",
+    "source_sha256": "81dd9d5a3fb0b09b96b5829f03b9796842f3199ef7591d1ba1c2db2a515f64d0"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\re-review-prompt.md",
+    "destination": "skills/subagent-driven-development/re-review-prompt.md",
+    "source_sha256": "0828a5e9cbb12ba49f14621dd8c3953c48c0fc383e75bb5494f055ed0d6d824f"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\SKILL.md",
+    "destination": "skills/subagent-driven-development/SKILL.md",
+    "source_sha256": "8dde5589ee083fb4999106d116f01c8fdaf3116a8a9813fdedeb80329de49046"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\task-reviewer-prompt.md",
+    "destination": "skills/subagent-driven-development/task-reviewer-prompt.md",
+    "source_sha256": "bfed55c8f19d0ff6ed57b0fe09127c92890e9311c6c73917129598826bf9ebe8"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\scripts\\review-package",
+    "destination": "skills/subagent-driven-development/scripts/review-package",
+    "source_sha256": "f617c52c538f09b13bd19a301cf5201584dcfd7aaf552eedefb3405f3f90fe0e"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\scripts\\sdd-workspace",
+    "destination": "skills/subagent-driven-development/scripts/sdd-workspace",
+    "source_sha256": "6e36a399687199dc11b9d7bd3038082d6a4637e7ad373b674dbb09f8ee1f7eea"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\subagent-driven-development\\scripts\\task-brief",
+    "destination": "skills/subagent-driven-development/scripts/task-brief",
+    "source_sha256": "51bb3fb73b07f85fd19d8f29f178451f7557b8c3d084a85835c5bc6bc15869f3"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\condition-based-waiting-example.ts",
+    "destination": "skills/systematic-debugging/condition-based-waiting-example.ts",
+    "source_sha256": "40ae5ebe497fdf310200e43fe986552546d0a22837c0d39e855db1cfd33eb88e"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\condition-based-waiting.md",
+    "destination": "skills/systematic-debugging/condition-based-waiting.md",
+    "source_sha256": "e89fec8400d6cd50f43407cec9fab50976ba4d55d0ec2eb51c0bd68036b54c26"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\CREATION-LOG.md",
+    "destination": "skills/systematic-debugging/CREATION-LOG.md",
+    "source_sha256": "c24733a5b1821bd6bed1fc950261f0b9f4e90097e0bbb96459d8179713730789"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\defense-in-depth.md",
+    "destination": "skills/systematic-debugging/defense-in-depth.md",
+    "source_sha256": "1e175fb86fc357e58c6aebf5441e481e1b7868b4380c0456b63a17eefbd18ba7"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\find-polluter.sh",
+    "destination": "skills/systematic-debugging/find-polluter.sh",
+    "source_sha256": "dd7b8f13c4cc2a24b33ff87b18da9248f3e1c80a085c3316224f69ff0fa5c43c"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\root-cause-tracing.md",
+    "destination": "skills/systematic-debugging/root-cause-tracing.md",
+    "source_sha256": "75b933b6a8c40bdb2031b10f21654395b56ec6ab6bc7b018c18d3fe57aeb7fb8"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\SKILL.md",
+    "destination": "skills/systematic-debugging/SKILL.md",
+    "source_sha256": "808fc5717aa88ad65efff312b11c186294d3e6ee301afb584e2f86599b137787"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\test-academic.md",
+    "destination": "skills/systematic-debugging/test-academic.md",
+    "source_sha256": "fe2ba480d78ac0d686dc025f41c2a32a43d642bf533f91b0c6053a04d35d6486"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\test-pressure-1.md",
+    "destination": "skills/systematic-debugging/test-pressure-1.md",
+    "source_sha256": "0b6a915db0054577819834c79be9eb614e97bddba10d73768e1fbe91cfed048a"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\test-pressure-2.md",
+    "destination": "skills/systematic-debugging/test-pressure-2.md",
+    "source_sha256": "b2030aeffba07050e8ad573ddf87486457c4a016a786bb326235bebd856f2016"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\systematic-debugging\\test-pressure-3.md",
+    "destination": "skills/systematic-debugging/test-pressure-3.md",
+    "source_sha256": "96b50a52e2c7989c9cf20fb752c47c1e9a3a70dc362f8f7989f8f5b64dac7708"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\test-driven-development\\SKILL.md",
+    "destination": "skills/test-driven-development/SKILL.md",
+    "source_sha256": "64b03fce4aee5a97a93160cea8111f3ba13a17b7c001db4bd5836d67fd10705d"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\test-driven-development\\writing-good-tests.md",
+    "destination": "skills/test-driven-development/writing-good-tests.md",
+    "source_sha256": "51471c853306ff92ca8bb41dcaea05f31c0e46b03651f8f3c99754b7172f4ae1"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-git-worktrees\\SKILL.md",
+    "destination": "skills/using-git-worktrees/SKILL.md",
+    "source_sha256": "8cfb86f121269e8f7f12361e6795c4f6738828340e28964c9229d365666c9edd"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\SKILL.md",
+    "destination": "skills/using-superpowers/SKILL.md",
+    "source_sha256": "82c5c8866ad7f5dd4440ce66bd7806ba48a2f13771beae5cf112e53f08fe36ba"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\antigravity-tools.md",
+    "destination": "skills/using-superpowers/references/antigravity-tools.md",
+    "source_sha256": "4880f6de3da4e32f9659ebe7a72b9e0ebfff04e028c2ed96173f86d0387a04c0"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\claude-code-tools.md",
+    "destination": "skills/using-superpowers/references/claude-code-tools.md",
+    "source_sha256": "21479a3fee27448cab8748a3b5687e53bb257883bda9c070426f9a1ab5cebf1b"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\codex-tools.md",
+    "destination": "skills/using-superpowers/references/codex-tools.md",
+    "source_sha256": "1a38ad9b188c393052f58d95657a1c35ea6aafc8b5a27f198f3922912f70bbe7"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\gemini-tools.md",
+    "destination": "skills/using-superpowers/references/gemini-tools.md",
+    "source_sha256": "62b9157bcb0ee3c6784e3d0da0798ddfa5872f9e0c34bea48f3079dabea71965"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\hermes-tools.md",
+    "destination": "skills/using-superpowers/references/hermes-tools.md",
+    "source_sha256": "e2185c976a3c87503910e05e2aea58cc89bc8e569bb624b93df9958ac47a9190"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\muse-tools.md",
+    "destination": "skills/using-superpowers/references/muse-tools.md",
+    "source_sha256": "5a1da5c575fe18456ca71cd47ebfd8a38c745f8d82a67fe64d5b83080000eeb3"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\using-superpowers\\references\\pi-tools.md",
+    "destination": "skills/using-superpowers/references/pi-tools.md",
+    "source_sha256": "703dbc83d23ecab9c6f388460c38abc482e9dee2fe6772a8c7a255152ad3a4d5"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\verification-before-completion\\SKILL.md",
+    "destination": "skills/verification-before-completion/SKILL.md",
+    "source_sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-plans\\plan-document-reviewer-prompt.md",
+    "destination": "skills/writing-plans/plan-document-reviewer-prompt.md",
+    "source_sha256": "aa728b96aad603c8be28875a4305637f6c984aa81ffcadcb13e743202fa2a0c7"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-plans\\SKILL.md",
+    "destination": "skills/writing-plans/SKILL.md",
+    "source_sha256": "0bc3d36590f7b2c323ed3ec18ff77e9f8ed57af42f5680a02b11a2d20de265cf"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\anthropic-best-practices.md",
+    "destination": "skills/writing-skills/anthropic-best-practices.md",
+    "source_sha256": "217629b356c09c9bd11017c9788e8fc654ca1b32c92d4a51cd490e16dd65e59a"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\graphviz-conventions.dot",
+    "destination": "skills/writing-skills/graphviz-conventions.dot",
+    "source_sha256": "b18a02773875f6c7b92f2a260e88550c92a62549b0009df9d680f7e9541d0ecc"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\persuasion-principles.md",
+    "destination": "skills/writing-skills/persuasion-principles.md",
+    "source_sha256": "a51bc9bf75189ea73a27b3fb504a2fdfdb966fb1f7f1cdf03203230a216ccc03"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\render-graphs.js",
+    "destination": "skills/writing-skills/render-graphs.js",
+    "source_sha256": "c7f412cc629461c4d10287e668731874c0497707023e3e3f74a5355eb2cee196"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\SKILL.md",
+    "destination": "skills/writing-skills/SKILL.md",
+    "source_sha256": "bbdfe742f853562e643a3d40d64476359d47881e39cef80a189283fa26d11ab9"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\testing-skills-with-subagents.md",
+    "destination": "skills/writing-skills/testing-skills-with-subagents.md",
+    "source_sha256": "c711346852c911b24a84aa161e0cff06a4cd7f4e2fa9e9c0a266cead5afcbade"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\superpowers-marketplace\\superpowers\\6.4.1\\skills\\writing-skills\\examples\\CLAUDE_MD_TESTING.md",
+    "destination": "skills/writing-skills/examples/CLAUDE_MD_TESTING.md",
+    "source_sha256": "0b379a3415e185d3c434b3ad283d8aa132f3022c2a4f210f168865b5986bcef0"
+  },
+  {
+    "source": "~\\.claude\\plugins\\cache\\karpathy-skills\\andrej-karpathy-skills\\1.0.0\\skills\\karpathy-guidelines\\SKILL.md",
+    "destination": "skills/karpathy-guidelines/SKILL.md",
+    "source_sha256": "e2553e9b66299fbca399804d6c44dfa44b2384b979ca5bf8b933b4916bb3141b"
+  }
+]
