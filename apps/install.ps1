@@ -56,3 +56,7 @@ foreach ($app in $optional) {
 
 Write-Host "`nDone. winget installs don't update the current session's PATH - open a new terminal, or refresh it manually:" -ForegroundColor Green
 Write-Host '  $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")' -ForegroundColor DarkGray
+
+Write-Host "`nGitHub CLI still needs a one-time login (after the PATH refresh above):" -ForegroundColor Green
+Write-Host '  gh auth login' -ForegroundColor DarkGray
+Write-Host "  -> GitHub.com, HTTPS, Login with a web browser" -ForegroundColor DarkGray

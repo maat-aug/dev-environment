@@ -28,6 +28,8 @@ Fits the workflow already defined in `../claude/CLAUDE.md` (GitHub Flow, Azure a
 | Bruno | `Bruno.Bruno` | Free, offline-first API client — collections are local files, git-friendly. Chosen over Postman/Insomnia. |
 | pnpm | `pnpm.pnpm` | Faster, disk-efficient package manager for the React/Next.js side of the stack (runs on top of Node.js, already in Essential) |
 
+**GitHub CLI auth**: installing it isn't enough — authenticate once after refreshing `PATH` (see [`SETUP.md`](../SETUP.md) prerequisites): run `gh auth login`, pick **GitHub.com** → **HTTPS** → **Login with a web browser**. Needed before `gh repo edit`, `gh pr create`, etc. work. Check anytime with `gh auth status`.
+
 **Note**: a full Visual Studio IDE was considered and intentionally left out — VS Code (already configured with C# Dev Kit and a Visual Studio–style theme/icons) is the single IDE for this setup.
 
 **React/Next.js note**: the real essential for React is Node.js (already listed above). Next.js/Vite/etc. are installed per-project (`npx` / devDependency), not as a global app, so they're not listed here. The one extra worth getting is **React DevTools** — not installable via winget, it's a browser extension: [Chrome](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) / [Edge](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/).

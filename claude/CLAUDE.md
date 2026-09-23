@@ -11,7 +11,9 @@ Clean Code ao extremo — evitar comentários ao máximo. Só comentar o "porqu�
 
 ## Geração de documentos
 
-Nunca criar ou sobrescrever documentos (README, ADR, business-rules, glossário, `AGENTS.md`, etc.) por iniciativa própria — sempre perguntar antes. Exceção: specs e planos gerados pelo fluxo do Superpowers.
+Nunca criar ou sobrescrever documentos (README, ADR, business-rules, glossário, `AGENTS.md`, etc.) por iniciativa própria — sempre perguntar antes. Exceções: specs e planos gerados pelo fluxo do Superpowers; registrar proveniência e ajustes em `third-party-skills.md` ao copiar skill/agente de terceiros (pré-autorizado, não precisa perguntar).
+
+Ao gerar um README, incluir uma breve descrição do projeto em inglês (1–2 frases) — serve também como descrição do repositório no GitHub.
 
 ## C#/.NET
 
@@ -42,7 +44,7 @@ SQL Server é o padrão, salvo indicação contrária.
 
 ## Git
 
-GitHub Flow: `main` sempre deployável, feature branches curtas, PR para merge.
+GitHub Flow: `master` sempre deployável, feature branches curtas, PR para merge.
 
 - Commits em inglês, modo imperativo (ex: "Add validation for X")
 - Nunca se colocar como autor/coautor nem mencionar IA/Claude em commit ou PR
